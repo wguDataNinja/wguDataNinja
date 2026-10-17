@@ -1,6 +1,6 @@
 # Buddy Owens
 
-**Operations Analyst | Reporting, Data Quality & Automation**
+**Operations Analyst | Data Reporting · Automation · Applied AI**
 
 I build reporting workflows and small, evidence-led tools that make messy operational
 information easier to inspect and use. My work centres on Excel reporting, SQL analysis,
@@ -12,13 +12,14 @@ historical, or unknown.
 
 ## Featured work
 
-### Ivy Health Dashboard (portfolio operations)
-An operational health view that reports timestamped evidence for selected workloads and
-distinguishes healthy, stale and unknown states rather than collapsing them into a single
-status. The operational presentation is the deliverable; a separate website redesign is
-not accepted or published, and this is not a live monitoring service.
+### Portfolio Operations Dashboard
+An operations dashboard that presents dated evidence for data collection, publishing
+activity, and quality checks across my portfolio projects. It helps distinguish a recorded
+event, an observation that needs refreshing, and an unknown without presenting the snapshot
+as live service health.
 
-`Python · deterministic checks · evidence handling · dashboard design` — *not publicly deployed*
+`Python · deterministic checks · evidence handling · dashboard design`
+[Open the dashboard](https://buddyowens.net/ivy-health/) · [Project Notes](https://buddyowens.net/projects/ivy-health-dashboard/)
 
 ### Retail Operations Reporting
 An Excel reporting system that turns transaction-level data into reconciled KPIs. Five
@@ -27,7 +28,7 @@ hardcoded metrics, and a reconciliation layer that has to pass before a number i
 Built on a simulated retail dataset, not a live ERP.
 
 `Excel · reporting architecture · reconciliation · KPI definition`
-[Case study](https://buddyowens.net/projects/retail-reporting-case-study/)
+[Project Notes](https://buddyowens.net/projects/retail-operations-reporting/)
 
 ### Retail SQL Explorer
 A read-only SQLite database with an in-browser Datasette Lite interface over 1,000
